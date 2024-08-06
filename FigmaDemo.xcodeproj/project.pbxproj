@@ -26,6 +26,7 @@
 /* Begin PBXFileReference section */
 		5D8407C12C607C1600FA89D5 /* ScenceDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScenceDelegate.m; sourceTree = "<group>"; };
 		5D8407C32C607D8500FA89D5 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		5DCFAFD42C61BB1100CDE8A6 /* SceneDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
 		6038EC1F5605A745DDDE9C45 /* Pods-FigmaDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FigmaDemo.debug.xcconfig"; path = "Target Support Files/Pods-FigmaDemo/Pods-FigmaDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		812F70B02C58805200AE9F72 /* FigmaDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FigmaDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		812F70B32C58805200AE9F72 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -40,7 +41,6 @@
 		812F70CD2C58855A00AE9F72 /* User.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = User.m; sourceTree = "<group>"; };
 		812F70D22C58B47C00AE9F72 /* UserProfileCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UserProfileCell.h; sourceTree = "<group>"; };
 		812F70D32C58B47C00AE9F72 /* UserProfileCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UserProfileCell.m; sourceTree = "<group>"; };
-		812F70E02C5A0AA400AE9F72 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SceneDelegate.h; path = ../../DemoPhoneProject/DemoPhoneProject/SceneDelegate.h; sourceTree = "<group>"; };
 		812F70E12C5A0DF100AE9F72 /* TwoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TwoViewController.h; sourceTree = "<group>"; };
 		812F70E22C5A0DF100AE9F72 /* TwoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TwoViewController.m; sourceTree = "<group>"; };
 		812F70E42C5A1EC800AE9F72 /* TextTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TextTableViewCell.h; sourceTree = "<group>"; };
@@ -110,7 +110,7 @@
 				812F70C12C58805400AE9F72 /* LaunchScreen.storyboard */,
 				812F70C52C58805400AE9F72 /* main.m */,
 				5D8407C32C607D8500FA89D5 /* Main.storyboard */,
-				812F70E02C5A0AA400AE9F72 /* SceneDelegate.h */,
+				5DCFAFD42C61BB1100CDE8A6 /* SceneDelegate.h */,
 				5D8407C12C607C1600FA89D5 /* ScenceDelegate.m */,
 				812F70F32C5C6E4600AE9F72 /* TextAndIconButton.h */,
 				812F70F42C5C6E4600AE9F72 /* TextAndIconButton.m */,

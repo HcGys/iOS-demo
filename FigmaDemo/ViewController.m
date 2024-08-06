@@ -210,6 +210,7 @@ static NSString *identifier = @"text";
         _tableView.backgroundColor = [UIColor whiteColor];
         _tableView.layer.cornerRadius = 16;
         _tableView.layer.borderColor = [RGB(27, 27, 27) CGColor];
+        _tableView.scrollEnabled = NO;
         _tableView.dataSource = self;
         _tableView.delegate = self;
     }
